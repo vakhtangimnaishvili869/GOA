@@ -1,0 +1,6 @@
+name = "vato"
+name არის ცვლადი
+= არის მნიშვნელობის მიმანიჭებელი სიმბოლო
+"vato" არის არის ცვლადისთვის მნიშვნელობა
+
+gavicani giorgi maxarashvili(damexmara davalebis atvirtvashi)
