@@ -1,1 +1,0 @@
-control flow არის მოქმედებების მიმდევრობა და არსებობს 3 წარმოდგენის გზა : sequence , selection, iteration
