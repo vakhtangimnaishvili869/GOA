@@ -1,0 +1,11 @@
+from turtle import *
+speed(100000000)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+exitonclick()
