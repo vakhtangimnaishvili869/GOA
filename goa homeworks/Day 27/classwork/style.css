@@ -1,0 +1,16 @@
+p{
+    color: blue;
+    background-color: red;
+    text-align: center;
+    font-size: large;
+    font-weight: 900;
+    border: black 2px solid;
+}
+div{
+    color: orange;
+    background-color: purple;
+    text-align: right;
+    font-size: medium;
+    font-weight: 800;
+    border: yellow 4px dashed;
+}
