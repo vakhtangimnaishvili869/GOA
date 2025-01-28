@@ -1,0 +1,27 @@
+#a1:link{
+    text-decoration: none;
+    color: aqua ; 
+    background-color: orange;
+}
+#a1:hover{
+    background-color: blue;
+}
+#a2:link{
+    text-decoration: none;
+    color: yellow ; 
+    background-color: black;
+}
+#a2:hover{
+    background-color: blue;
+    color: black;
+}
+.btn:hover{
+    background-color:  purple;
+    color: black;
+    border-radius: 50px;
+    padding: 13px 50px;
+    border: 2px  black solid ;
+    filter: drop-shadow(0 0 10px);
+    
+    
+}

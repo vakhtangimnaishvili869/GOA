@@ -1,0 +1,83 @@
+body{
+   background-color: hsl(225, 100%, 94%); 
+   height: 100vh;
+   
+   font-family: "Red Hat Display", serif;
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.parent{
+  
+    width: 400px;
+    height: 600px;
+    background-color:  hsl(225, 100%, 98%);
+    border-radius: 20px;
+   
+   
+
+}
+.img{
+    width: 400px;
+    
+}
+.img img{
+    width: 400px;
+    height: 30vh;
+    border-radius: 20px  20px 0px 0px;
+}
+.text1{
+    text-align: center;
+    color: hsl(224, 23%, 55%);
+}
+h1{
+    color: hsl(223, 47%, 23%);
+}
+.txts{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.icon{
+    background-color: hsl(225, 100%, 94%) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 100px;
+    position: relative;
+}
+.p1{
+    position: absolute;
+    right: 37%;
+    bottom: 27%;
+}
+.ic{
+    width: 70px;
+    height: 70px;
+}
+.txts{
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.btn1{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: hsl(224, 23%, 55%) ;
+    color: white;
+}
+.btn2{
+    width: 200px;
+}
+
+/* } */
