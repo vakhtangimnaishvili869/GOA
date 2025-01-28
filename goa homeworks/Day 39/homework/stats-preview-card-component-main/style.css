@@ -1,0 +1,72 @@
+
+body{
+    height: 100vh;
+    background-color: hsl(233, 47%, 7%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.parent .card1 .card2{
+    border-radius: 15px;
+}
+
+.card1{
+    width: 500px;
+    height: 400px;
+    background-color:  hsl(244, 38%, 16%) ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    border-radius: 15px 0px 0px 15px;
+}
+.card1 .texts{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+.card2{
+    width: 400px;
+    height: 400px;
+    background-image: url(image-header-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 1000px rgba(110, 27, 138, 0.59);
+    border-radius: 0px 15px 15px 0px;
+}
+span{
+    color:  hsl(277, 64%, 61%);
+}
+.texts{
+    color: hsl(0, 0%, 100%) ;
+    font-family: "Inter", serif;
+
+    /* font-family: "Lexend Deca", serif; */
+
+}
+.texts p{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 14px;
+    
+  /* font-family: "Inter", serif; */
+  font-family: "Lexend Deca", serif;
+}
+
+.all{
+    display: flex;
+    margin-left: 1px;
+    /* flex-direction: column; */
+    gap: 60px;
+   color:  hsl(0, 0%, 100%);
+   font-size: large;
+}
+
