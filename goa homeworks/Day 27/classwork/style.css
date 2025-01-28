@@ -1,0 +1,10 @@
+p{
+    color: blue;
+}
+b{
+    color: red;
+}
+/* comment */
+div p{
+    color: red;
+}
