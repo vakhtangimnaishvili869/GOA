@@ -1,0 +1,5 @@
+# mutable - list, dict 
+# immutable - str, tuple, set (set - add და remove შეგიძლია)
+# lambda - anonymous functions
+# map ში ვატარებთ და ცვლის და filter თუ ფელს აჩვენებს არ თვლის
+# str + str = concatenation
